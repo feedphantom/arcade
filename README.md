@@ -52,4 +52,4 @@ Distribuido bajo la licencia GPL-3.0. Consulte `LICENSE.txt` para obtener más i
 Pere Cusó - pere.cuso@salle.url.edu\
 David Marquet - david.marquet@salle.url.edu
 
-Link del proyecto: https://github.com/sweetnight19/arcade
+Link del proyecto: https://github.com/feedphantom/arcade
